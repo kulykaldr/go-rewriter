@@ -1,0 +1,9 @@
+*.mp4
+*.mp3
+*.lnk
+*.exe
+*.txt
+profiles
+articles
+voices
+config.json
